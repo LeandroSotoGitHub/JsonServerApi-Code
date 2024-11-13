@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": "23a2",
+      "firstName": "leandro",
+      "lastName": "soto",
+      "email": "admin@admin.com",
+      "password": "123456",
+      "token": "sdkjfksndfsa;kh123123312",
+      "role": "ADMIN"
+    }
+  ],
+  "students": [
+    {
+      "id": "4176",
+      "firstName": "juan",
+      "lastName": "luis",
+      "mail": "luisluisjuanjuan@hotmail.com",
+      "createdAt": "2024-10-28T20:25:54.771Z"
+    },
+    {
+      "id": "1983",
+      "firstName": "pedro",
+      "lastName": "gomez",
+      "mail": "pedro@hotmail.com",
+      "createdAt": "2024-10-28T20:53:18.759Z"
+    },
+    {
+      "id": "3289",
+      "firstName": "juan",
+      "lastName": "perez",
+      "mail": "juan.perez@gmail.com",
+      "createdAt": "2024-10-28T20:54:57.088Z"
+    }
+  ],
+  "courses": [
+    {
+      "id": "ac9d",
+      "name": "AngularJs",
+      "startDate": "2024-04-16T03:00:00.000Z",
+      "endDate": "2024-07-24T03:00:00.000Z",
+      "classes": [
+        {
+          "id": "2331",
+          "title": "Clase 01 - Introduccion"
+        }
+      ]
+    },
+    {
+      "id": "dc4e",
+      "name": "Desarrollo Web",
+      "startDate": "2024-04-15T03:00:00.000Z",
+      "endDate": "2024-07-15T03:00:00.000Z",
+      "classes": [
+        {
+          "id": "2331",
+          "title": "Clase 01 - Introduccion"
+        }
+      ]
+    },
+    {
+      "id": "70e8",
+      "name": "Prototipado en Figma",
+      "startDate": "2024-05-15T03:00:00.000Z",
+      "endDate": "2024-08-15T03:00:00.000Z",
+      "classes": [
+        {
+          "id": "2331",
+          "title": "Clase 01 - Introduccion"
+        },
+        {
+          "id": "1232",
+          "title": "Clase 02 - Sistemas de diseno"
+        }
+      ]
+    }
+  ]
+}
